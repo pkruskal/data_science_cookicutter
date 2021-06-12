@@ -1,4 +1,4 @@
-# data science cookicutter template
+# Data science cookicutter template
 This is a generic template for datascience procects
 
 - set up to work off of Docker / Docker-compose for projects
