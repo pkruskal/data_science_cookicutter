@@ -1,3 +1,3 @@
-from .logger import logger
+from .configure_loguru import logger
 
-logger.disable("{{cookiecutter.model_slug}}")
+logger.disable("{{cookiecutter.package_name}}")

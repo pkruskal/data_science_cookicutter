@@ -6,7 +6,7 @@ This is a generic template for datascience procects
 - uses poetry for enviornment managment
 - default sets up logging via logguru
 
-# pre-rec installation
+## pre-rec installation
 
 - install cookie cutter
   https://cookiecutter.readthedocs.io/en/1.7.2/installation.html
@@ -19,4 +19,16 @@ This is a generic template for datascience procects
 - maksue you have Docker and Docker-Compose
   this cookicutter will set up a default Docker file
 
+## set up
 
+- run cookicutter
+
+### set up virtual enviornment with poetry
+- run `poetry install` to create a local vitrual enviornment
+- set pycharm enviornment to poetry enviornment
+
+### set up using docker
+
+#### ssh with docker
+
+#### jupyterlab with docker
