@@ -1,3 +1,7 @@
 {
   "package_name": "Model_Name",
+  "competition_slug": "dfl-bundesliga-data-shootout",
+  "path_to_data" : "/path/to/data",
+  "kaggle_username" : "", // if using the kaggle and have the kaggle CLI
+  "kaggle_key" : "" // if using the kaggle and have the kaggle CLI
 }
